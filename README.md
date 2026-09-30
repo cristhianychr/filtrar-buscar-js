@@ -6,7 +6,7 @@ El proyecto permite filtrar y buscar información dinámicamente utilizando dife
 
 ## 🚀 Demo
 
-[\[Ver proyecto en GitHub Pages\]](https://cristhianychr.github.io/filtrar-buscar-js/)
+[Ver proyecto en GitHub Pages](https://cristhianychr.github.io/filtrar-buscar-js/)
 
 ## 📸 Vista previa
 
